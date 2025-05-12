@@ -93,6 +93,17 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 
 🌐 Connect with me:
 ---
-[LinkedIn](https://www.linkedin.com/in/iamericabrooks/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iamericabrooks) 
 
 Open to collaboration, mentorship, and opportunities in **QA, Business Analysis, or Software Development**. Let’s create meaningful, user-centered solutions—together!
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ericabrookstech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ericabrookstech&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericabrookstech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ericabrookstech&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ericabrookstech&icon=0&color=0)](https://visitcount.itsvg.in)
