@@ -30,11 +30,11 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 ---
 **💻 Programming Languages:**
 
-**Learned:**
+**Used/Practiced:**
+* Java
 * SQL (introductory)
 
 **Learning:**
-* Java
 * Python
 * HTML & CSS
 * JavaScript
@@ -42,6 +42,8 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 **🧰 Developer Tools:**
 **Used/Practiced:**
 * Jira
+* VS Code
+* IntelliJ IDEA
 * Xray (for Jira test management)
 * Postman
 * TestRail
@@ -49,8 +51,6 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 * Git & GitHub
 
 **Learning:**
-* VS Code
-* IntelliJ IDEA
 * Git Bash / Command Line
 * Eclipse
 * AWS Cloud9
