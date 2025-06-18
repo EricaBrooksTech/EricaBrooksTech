@@ -29,8 +29,6 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 ⚙️ Tech Stack:
 ---
 **💻 Programming Languages:**
-
-**Used/Practiced:**
 * Java
 * SQL (introductory)
 
@@ -40,7 +38,6 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 * JavaScript
 
 **🧰 Developer Tools:**
-**Used/Practiced:**
 * Jira
 * VS Code
 * IntelliJ IDEA
@@ -58,11 +55,13 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 * CI/CD tools
 
 **📚 Libraries & Frameworks:**
+**Core Java Libraries**
+  * java.util – Collections, Date/Time APIs, utilities like Scanner, Random, etc.
+  * java.io / java.nio – Input/output and file handling
+  * java.net – Networking APIs
+  * java.math – BigInteger, BigDecimal for precise math
 
-**Familiar With:**
-* None at the moment
-
-**Currently Learning:**
+**Learning:**
 * Selenium WebDriver
 * Maven / Gradle (basic)
 * JUnit
