@@ -4,7 +4,7 @@
 ---
 I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s Degree in Entertainment Business. With a diverse background in project management, IT systems analysis, and process improvement, I've developed a unique blend of creative insight and technical problem-solving.
 
-🚀 Over the years, I’ve worked in roles such as Program Analyst/Product Owner, Quality Control Manager, and IT Systems Analyst, helping teams streamline operations, deploy software solutions, and improve user experiences.
+🚀 Over the years, I’ve worked in roles such as Planner/Product Owner, Quality Control Manager, and IT Systems Analyst, helping teams streamline operations, deploy software solutions, and improve user experiences.
 
 🎯 I’m now transitioning into **Software Developement and QA Engineering**—leveraging both my past experience and new technical skills to ensure quality, clarity, and consistency in system development.
 
