@@ -30,7 +30,7 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 ---
 **💻 Programming Languages:**
 * Java
-* SQL (introductory)
+* SQL 
 
 **Learning:**
 * Python
@@ -39,6 +39,7 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 
 **🧰 Developer Tools:**
 * Jira
+* MySQL
 * VS Code
 * IntelliJ IDEA
 * Xray (for Jira test management)
