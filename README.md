@@ -6,7 +6,7 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 
 🚀 Over the years, I’ve worked in roles such as Planner/Product Owner, Quality Control Manager, and IT Systems Analyst, helping teams streamline operations, deploy software solutions, and improve user experiences.
 
-🎯 I’m now transitioning fully into **Software Developement as a Business Analyst, Product Owner and/or Product Manager**—leveraging both my past experience and new technical skills to ensure quality, clarity, and consistency in system development.
+🎯 I’m now transitioning fully into the **Tech Industry as a Business Analyst, Product Owner and/or Product Manager**—leveraging both my past experience and new technical skills to ensure quality, clarity, and consistency in system development.
 
 🧠 Completed Courses & Certifications:
 ---
