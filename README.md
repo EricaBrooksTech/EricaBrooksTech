@@ -22,9 +22,9 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 
 **Focus:** Java, object-oriented programming, AWS Cloud9, basic web development, Git
 
-🔧 [Software Testing and Automation Specialization – Coursera](https://www.coursera.org/specializations/software-testing-automation/)
+📊 [Microsoft Business Analyst Professional Certification – Coursera](https://www.coursera.org/professional-certificates/microsoft-business-analyst).
 
-**Focus:** Selenium, automated testing, CI/CD pipelines, API testing, test frameworks
+**Focus:** Power BI, Data Modeling, Excel Formulas, Process Flow Diagrams, SDLC, Microsoft Visio, Microsoft Power Automate/Flow, Business Requirements
 
 ⚙️ Tech Stack:
 ---
@@ -47,6 +47,8 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 * TestRail
 * Test Monitor
 * Git & GitHub
+* Maven / Gradle (basic)
+
 
 **Learning:**
 * Git Bash / Command Line
@@ -64,7 +66,6 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 
 **Learning:**
 * Selenium WebDriver
-* Maven / Gradle (basic)
 * JUnit
 * TestNG
 * PyTest
