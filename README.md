@@ -22,7 +22,7 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 
 **Focus:** Java, object-oriented programming, AWS Cloud9, basic web development, Git
 
-📊 [Microsoft Business Analyst Professional Certification – Coursera](https://www.coursera.org/professional-certificates/microsoft-business-analyst).
+📊 [Microsoft Business Analyst Professional Certification – Coursera](https://www.coursera.org/professional-certificates/microsoft-business-analyst)
 
 **Focus:** Power BI, Data Modeling, Excel Formulas, Process Flow Diagrams, SDLC, Microsoft Visio, Microsoft Power Automate/Flow, Business Requirements
 
