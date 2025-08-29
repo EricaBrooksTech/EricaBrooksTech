@@ -78,9 +78,8 @@ I'm a proud graduate of Full Sail University, where I earned my 🎓Master’s D
 **🔍 What I’m Working On:**
 ---
 * Creating a QA/BA portfolio with test cases, user stories, workflows, and test scripts
-* Practicing automation using Selenium and Java/Python
 * Exploring real-world applications of business analysis and requirements documentation
-* Collaborating on mock projects to apply manual and automated testing strategies
+* Creating a portfolio on mock Java projects to apply skills learned
 
 **🛠️ Skills Snapshot:**
 ---
